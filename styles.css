@@ -1,4 +1,4 @@
-body { border: 10px solid red !important; }
+
 :root {
             --bg: #05070a;
             --card: rgba(255, 255, 255, 0.03);
@@ -255,4 +255,5 @@ font-size:14px;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
 }
+
 
